@@ -1,0 +1,27 @@
+/*===========================
+    Create Color
+===========================*/
+body{
+    background-color: #e0eaff;
+}
+.all-area{
+    border: 5px solid black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.container{
+    background-color:;
+    padding-bottom: 40px;
+}
+.name-text{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.fas{
+    color: #7c91f9;
+}
